@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Portafolio",
+    "url": "/portafolio"
+  },
+  {
+    "title": "Clientes",
+    "url": "/clientes"
+  },
+  {
+    "title": "Métodos de pago",
+    "url": "/metodos-de-pago"
+  },
+  {
+    "title": "Contacto",
+    "url": "/contacto"
+  }
+]

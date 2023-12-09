@@ -1,0 +1,40 @@
+---
+import links from "../data/links.json";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Diseño y desarrollo web a medida, romeroruiz.com</title>
+  </head>
+  <body>
+    <h1>Bienvenidos</h1>
+    <h2>En casa de herrero cuchillo de palo</h2>
+
+    <nav>
+      {
+        links.map((link) => {
+          return (
+            <span>
+              <a href={link.url}>{link.title}</a>
+            </span>
+          );
+        })
+      }
+    </nav>
+    <slot />
+    <p>
+      Contacto:
+      <a
+        href="https://api.whatsapp.com/send?phone=51981035276&text=%C2%A1Hola!%20Vengo%20de%20la%20web%2C%20quisiera%20m%C3%A1s%20informaci%C3%B3n."
+        >Whatsapp</a
+      >
+    </p>
+    <footer>
+      <p>Todos los derechos reservados romeroruiz.com</p>
+    </footer>
+  </body>
+</html>
