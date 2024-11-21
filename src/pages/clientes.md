@@ -10,13 +10,11 @@ title: Clientes
 
 ## Wordpress
 
+### [Estudio Marco Tulio Gutierrez](https://estudiomarcotuliogutierrez.com.pe/)
+
 ### [Bareto](https://baretoweb.com/)
 
 ### [Anibal Torres Vasquez](https://etorresvasquez.com.pe/)
-
-### [Academia Peruana de Leyes](https://apele.org.pe/)
-
-### [Con Tinta Tusan](https://www.contintatusan.com/)
 
 ## Hosting
 

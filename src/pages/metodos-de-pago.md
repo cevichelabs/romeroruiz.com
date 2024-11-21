@@ -24,3 +24,6 @@ title: Métodos de pago
   193-21458139-1-86
 - Código de Cuenta Interbancaria <br />
   00219312145813918615
+- Cuenta Cuenta Simple Dólares en Interbank es: <br /> 2413034798789
+
+- Cuenta Interbancario (CCI) en Interbank es: <br /> 00324101303479878978
